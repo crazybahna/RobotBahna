@@ -9,7 +9,7 @@ bot.on('message', function (message){
 		message.reply('Ouiiiiiiii ?');
 	} 
   
-bot.login('process.env.BOT_TOKEN');
+bot.login(process.env.BOT_TOKEN);
 
 
  
