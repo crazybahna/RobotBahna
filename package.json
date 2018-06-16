@@ -1,0 +1,17 @@
+{
+  "name": "robobahna",
+  "version": "1.0.0",
+  "description": "un peu de folier",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ibahna",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "googlesheet-to-json": "0.0.1",
+    "read-xml": "^3.0.0",
+    "youtube-audio-stream": "^0.2.0"
+  }
+}
