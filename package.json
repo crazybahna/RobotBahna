@@ -1,7 +1,7 @@
 {
   "name": "robobahna",
   "version": "1.0.0",
-  "description": "un peu de folier",
+  "description": "un peu de folie",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -9,7 +9,7 @@
   "author": "ibahna",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2",
+    "discord.js": "11.3.2",
     "request:" "2.81.0"
   }
 }
